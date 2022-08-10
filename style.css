@@ -5,6 +5,7 @@
 }
 
 body {
+    margin: 10px;
     background-color: #FFEDD5;
     font-family: 'roboto', sans-serif;
 }
