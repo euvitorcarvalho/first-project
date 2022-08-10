@@ -12,6 +12,7 @@ body {
 ul {
     list-style: none;
 }
+
 p {
     margin-bottom: 4px;
 }
@@ -28,6 +29,7 @@ section {
     max-width: 400px;
     margin: 0 auto; 
 }
+
 header h1 {
     margin-bottom: 4px;
     font-size: 28px;
@@ -74,6 +76,7 @@ li .product-and-details {
     margin-bottom: 8px;
     font-size: 16px;
 }
+
 /* img */ 
 
 img {
@@ -91,6 +94,7 @@ h1, h2, h3, .price {
     color: #2D2C2A;
     line-height: 19px;
 }
+
 .product-and-details p {
     color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
